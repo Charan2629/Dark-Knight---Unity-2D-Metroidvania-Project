@@ -15,7 +15,7 @@ This repository contains my own work: the clean, functional prototype that serve
 
 A full gameplay video of the two completed levels is available to view. This video showcases all the technical and artistic systems working together.
 
-**[>> Watch the Full Gameplay Video Here <<](PASTE_YOUR_UNLISTED_YOUTUBE_LINK_HERE)**
+**[>> Watch the Full Gameplay Video Here <<](https://youtu.be/gcb8TYrF9pU)**
 
 ---
 
